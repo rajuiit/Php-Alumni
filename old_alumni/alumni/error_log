@@ -1,0 +1,227 @@
+[29-Jun-2019 16:23:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:23:18 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:23:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 16:23:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 16:23:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:23:19 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:23:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 16:23:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 16:23:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:23:25 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:23:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 16:23:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 16:23:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:23:30 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:23:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 16:23:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 16:23:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:23:31 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:24:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:24:02 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:24:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 16:24:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 16:28:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:28:38 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:28:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 16:28:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 16:28:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:28:42 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:28:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 16:28:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 16:28:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:28:43 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:28:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:28:54 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:28:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 16:28:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 16:31:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:31:48 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:31:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 16:31:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 16:33:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:33:54 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:33:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 16:33:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 16:33:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:33:56 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:33:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 16:33:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 16:33:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:33:58 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:33:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 16:33:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 16:33:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:33:59 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:34:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:34:03 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:34:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 16:34:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 16:41:36 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:41:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:41:36 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:41:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 16:41:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 16:41:38 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:41:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:41:38 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:41:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 16:41:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 16:41:39 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:41:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:41:39 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:41:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 16:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 16:41:40 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:41:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:41:40 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 16:47:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 16:47:06 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:02:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:02:10 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:09:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:09:47 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:09:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:09:53 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:09:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 17:09:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 17:09:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:09:55 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:09:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 17:09:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 17:09:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:09:57 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:09:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 17:09:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 17:09:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:09:59 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:09:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 17:09:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 17:10:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:10:01 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:10:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:10:29 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:10:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 17:10:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 17:12:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:12:33 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:12:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 17:12:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 17:12:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:12:34 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:12:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 17:12:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 17:12:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:12:37 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:12:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 17:12:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 17:14:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/alumni-login.php on line 8
+[29-Jun-2019 17:14:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proconfl/public_html/alumni/alumni/alumni-login.php on line 18
+[29-Jun-2019 17:14:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/alumni-login.php on line 8
+[29-Jun-2019 17:14:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/proconfl/public_html/alumni/alumni/alumni-login.php on line 18
+[29-Jun-2019 17:18:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: YES) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:18:57 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:18:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 17:18:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 17:28:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:28:04 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:28:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 17:28:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 17:28:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:28:06 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:28:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/events.php on line 102
+[29-Jun-2019 17:28:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/events.php on line 104
+[29-Jun-2019 17:28:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:28:09 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:28:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 17:28:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 17:28:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:28:20 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:28:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 17:28:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 17:28:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:28:37 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:28:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumni-home.php on line 117
+[29-Jun-2019 17:28:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumni-home.php on line 119
+[29-Jun-2019 17:28:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:28:37 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:28:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumni-home.php on line 317
+[29-Jun-2019 17:28:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumni-home.php on line 319
+[29-Jun-2019 17:34:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:34:50 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:34:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumni-home.php on line 117
+[29-Jun-2019 17:34:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumni-home.php on line 119
+[29-Jun-2019 17:34:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:34:50 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:34:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumni-home.php on line 317
+[29-Jun-2019 17:34:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumni-home.php on line 319
+[29-Jun-2019 17:34:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:34:56 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:34:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 117
+[29-Jun-2019 17:34:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 119
+[29-Jun-2019 17:34:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:34:57 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:34:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 118
+[29-Jun-2019 17:34:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/notice-board.php on line 120
+[29-Jun-2019 17:35:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:35:13 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:35:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:35:13 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:35:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/admin-events.php on line 241
+[29-Jun-2019 17:35:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/admin-events.php on line 243
+[29-Jun-2019 17:35:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:35:17 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:35:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'proconfl_mahedy'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/conn.php on line 2
+[29-Jun-2019 17:35:17 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/conn.php on line 4
+[29-Jun-2019 17:35:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/admin-notice-board.php on line 233
+[29-Jun-2019 17:35:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/admin-notice-board.php on line 235
+[01-Jul-2019 19:53:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 131
+[01-Jul-2019 19:53:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 132
+[01-Jul-2019 19:53:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 136
+[19-Aug-2019 03:15:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 131
+[19-Aug-2019 03:15:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 132
+[19-Aug-2019 03:15:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 136
+[19-Aug-2019 03:15:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 131
+[19-Aug-2019 03:15:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 132
+[19-Aug-2019 03:15:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/proconfl/public_html/alumni/alumni/alumnus.php on line 136
+[23-Aug-2019 09:51:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/functions.php:7
+Stack trace:
+#0 /home/proconfl/public_html/alumni/alumni/functions.php(7): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/proconfl/public_html/alumni/alumni/insert-alumni.php(36): performQuery('INSERT INTO `re...')
+#2 {main}
+  thrown in /home/proconfl/public_html/alumni/alumni/functions.php on line 7
+[23-Aug-2019 09:51:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/proconfl/public_html/alumni/alumni/functions.php:7
+Stack trace:
+#0 /home/proconfl/public_html/alumni/alumni/functions.php(7): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/proconfl/public_html/alumni/alumni/insert-alumni.php(36): performQuery('INSERT INTO `re...')
+#2 {main}
+  thrown in /home/proconfl/public_html/alumni/alumni/functions.php on line 7
+[16-Sep-2019 05:00:46 UTC] PHP Fatal error:  Cannot use [] for reading in /home/proconfl/public_html/alumni/alumni/index.php on line 79
+[16-Sep-2019 05:00:53 UTC] PHP Fatal error:  Cannot use [] for reading in /home/proconfl/public_html/alumni/alumni/index.php on line 79
+[16-Sep-2019 05:03:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home/proconfl/public_html/alumni/alumni/index.php on line 74
+[16-Sep-2019 05:03:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/proconfl/public_html/alumni/alumni/index.php on line 74
+[16-Sep-2019 05:18:38 UTC] PHP Warning:  unlink(slider_image/slider-1.jpg): No such file or directory in /home/proconfl/public_html/alumni/alumni/remove.php on line 8
+[16-Sep-2019 05:22:18 UTC] PHP Warning:  unlink(slider_image/slider-1.jpg): No such file or directory in /home/proconfl/public_html/alumni/alumni/remove.php on line 8
+[16-Sep-2019 05:22:27 UTC] PHP Warning:  unlink(slider_image/slider-1.jpg): No such file or directory in /home/proconfl/public_html/alumni/alumni/remove.php on line 8
+[16-Sep-2019 05:24:17 UTC] PHP Warning:  unlink(slider_image/slider-1.jpg): No such file or directory in /home/proconfl/public_html/alumni/alumni/remove.php on line 8
+[16-Sep-2019 05:24:31 UTC] PHP Warning:  unlink(slider_image/slider-1.jpg): No such file or directory in /home/proconfl/public_html/alumni/alumni/remove.php on line 8
+[17-Sep-2019 07:28:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[17-Sep-2019 07:28:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[17-Sep-2019 07:29:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[17-Sep-2019 07:29:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[17-Sep-2019 07:38:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[17-Sep-2019 07:38:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[17-Sep-2019 07:40:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[17-Sep-2019 07:40:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[17-Sep-2019 07:44:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[17-Sep-2019 07:44:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[17-Sep-2019 07:44:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[17-Sep-2019 07:44:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[18-Sep-2019 04:30:27 UTC] PHP Warning:  unlink(slider_image/slider-1.jpg): No such file or directory in /home/proconfl/public_html/alumni/alumni/remove.php on line 8
+[21-Sep-2019 10:01:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[21-Sep-2019 10:01:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[21-Sep-2019 10:03:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[21-Sep-2019 10:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[24-Sep-2019 00:52:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[24-Sep-2019 00:52:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
+[04-Oct-2019 15:12:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 4
+[04-Oct-2019 15:12:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php:1) in /home/proconfl/public_html/alumni/alumni/alumni-admin-index.php on line 10
